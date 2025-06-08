@@ -1,4 +1,4 @@
-# analiza-pracuj-pl
+# pracuj-pl-scraper
 
 ## Podstawowa konfiguracja scrapera.
 
