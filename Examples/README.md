@@ -6,6 +6,8 @@
 
  If you don't want to run the scraper to showcase the analysis just put the corresponding .csv file into the folder with the jupyter notebook.
 
+ Analiza_IT_technologie showcases the scraping of *https://www.pracuj.pl/praca/warszawa;wp?rd=30&cc=5015%2C5016* - meaning IT job (Admnistration and Code creation) offers from the Warsaw region as they were on the day of 07.06.2025, 984 were collected and were saved into pracuj_pl_IT.csv. You can also see the report from that file by viewing Analiza_IT_technologie.html with https://htmlpreview.github.io/
+
  ## Do note: Analiza_IT files were made in part with code made by @karolinakuligowska
 
 
