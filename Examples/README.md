@@ -6,4 +6,6 @@
 
  If you don't want to run the scraper to showcase the analysis just put the corresponding .csv file into the folder with the jupyter notebook.
 
+ ## Do note: Analiza_IT files were made in part with code made by @karolinakuligowska
+
 
