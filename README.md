@@ -19,4 +19,6 @@ możemy ustawić miasto, promień wyszukiwania wokół tego miasta, oferowaną p
 
 Po wykonaniu scrapera powstanie plik **pracuj_pl_oferty.csv** w folderze wykonywania jupytera/skryptu - zmień jego nazwę i typ na odpowiadającą oczekiwanemu przez ciebie skryptowi R: 
 * dla Analiza_IT_technologie.R jest to pracuj_pl_IT.csv
+* dla pracuj_pl_analityk.ipynb jest to csv_analityk_danych.csv
+* dla pracuj_pl_js.ipynb jest to csv_js.csv
 ##### i umieść go w tym samym folderze co ten skrypt R.
